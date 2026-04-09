@@ -6,7 +6,7 @@
 * 🌱 I’m currently sharpening my skills in **Frontend & Backend Architecture**
 * 💬 Ask me about **Java, Python, React, and Node.js**
 * 📫 How to reach me: **[Send me an email](mailto:tejassagar9@gmail.com)**
-* 🔗 Here is my resume for more information: **[View My Resume](./Tejas_Sagar_Resume.pdf)**
+* 🔗 Here is my resume for more information: **[View My Resume](./Tejas's%20Resume.pdf)**
 
 ---
 
