@@ -1,24 +1,21 @@
 <div align="center">
-  <a href="https://github.com/TejasSagar03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Tejas+Sagar+👋;Aspiring+Full-Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-  <br>
-  <p><b>Crafting robust web platforms and sleek mobile experiences from Bangalore, India 🇮🇳</b></p>
+  <h1>Hi 👋, I'm Tejas Sagar K</h1>
+  <p><b>Full-Stack Web Developer | BCA Student from Bangalore, India 🇮🇳</b></p>
 </div>
 
 ---
 
-### 👨‍💻 A Little About Me
+### 👨‍💻 Professional Summary
 
-- 🎓 Pursuing my **Bachelor of Computer Applications (BCA)** and constantly exploring advanced software architectures.
-- 💻 Writing code on my Asus TUF Gaming F15 and testing mobile builds natively on my Nothing Phone 1.
-- 🚀 Currently focused on building high-performance platforms like **PixelStack** and **CashSpot**.
-- ⚡ **Fun Fact:** When I'm taking a screen break, I'm usually watching *Naruto Shippuden* or maintaining my 70.9% win rate in *Hurricane*!
-- 📄 Want the formal details? **[Grab my Resume here](./Tejas's%20Resume.pdf)**.
+- 🔭 Currently engineering scalable, high-performance platforms like **PixelStack** and **CashSpot**.
+- 🌱 Sharpening my skills in **Frontend State Management, Backend Architecture, and Mobile Development**.
+- 🎓 Pursuing a Bachelor of Computer Applications (BCA) with a strong focus on building real-world applications.
+- 💬 Ask me about **React, Next.js, Flutter, and Node.js**.
+- 📄 Want the formal details? **[View my Resume here](./Tejas's%20Resume.pdf)**.
 
 ---
 
-### 🛠️ My Tech Arsenal
+### 🛠️ Tech Arsenal
 
 <div align="center">
   <table>
