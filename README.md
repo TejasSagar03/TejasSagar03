@@ -40,7 +40,7 @@
 
 > 🕹️ **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** > A responsive gaming hub featuring modern and classic titles like Tic-Tac-Toe, 2048, and Neon Drifter. Built with advanced state management for high-performance gameplay.
 
-> 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** | **[Live Demo](https://cash-spot.vercel.app/)** > A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management.
+> 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** > A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management.
 
 ---
 
