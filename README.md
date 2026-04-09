@@ -1,88 +1,88 @@
-# Hi 👋, I'm Tejas Sagar
-
-**A passionate full-stack developer building robust and scalable applications.**
-
-* 🔭 I’m currently working on **Full Stack Web Projects**
-* 🌱 I’m currently sharpening my skills in **Frontend & Backend Architecture**
-* 💬 Ask me about **Java, Python, React, and Node.js**
-* 📫 How to reach me: **[Send me an email](mailto:tejassagar9@gmail.com)**
-* 🔗 Here is my resume for more information: **[View My Resume](./Tejas's%20Resume.pdf)**
+<div align="center">
+  <a href="https://github.com/TejasSagar03">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Tejas+Sagar+👋;Aspiring+Full-Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+  <br>
+  <p><b>Crafting robust web platforms and sleek mobile experiences from Bangalore, India 🇮🇳</b></p>
+</div>
 
 ---
 
-### 🌐 Connect with me:
+### 👨‍💻 A Little About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/tejasss_here/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/tejasrevenger" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:tejassagar9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+- 🎓 Pursuing my **Bachelor of Computer Applications (BCA)** and constantly exploring advanced software architectures.
+- 💻 Writing code on my Asus TUF Gaming F15 and testing mobile builds natively on my Nothing Phone 1.
+- 🚀 Currently focused on building high-performance platforms like **PixelStack** and **CashSpot**.
+- ⚡ **Fun Fact:** When I'm taking a screen break, I'm usually watching *Naruto Shippuden* or maintaining my 70.9% win rate in *Hurricane*!
+- 📄 Want the formal details? **[Grab my Resume here](./Tejas's%20Resume.pdf)**.
 
 ---
 
-### 💻 Tech Stack:
+### 🛠️ My Tech Arsenal
 
-**Programming Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
-
-**Mobile Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-</p>
-
-**Backend & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-</p>
-
-**Databases & ORMs**
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend & Mobile</b></td>
+      <td align="center"><b>Backend & Frameworks</b></td>
+      <td align="center"><b>Languages & Data</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next" /> <br>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <br>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <br>
+        <img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node" /> <br>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest" /> <br>
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB" alt="Express" /> <br>
+        <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <br>
+        <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java_&_Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Java/Python" /> <br>
+        <img src="https://img.shields.io/badge/C_&_C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" /> <br>
+        <img src="https://img.shields.io/badge/Dart_&_Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Dart/Kotlin" /> <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" /> <br>
+        <img src="https://img.shields.io/badge/MongoDB_&_MySQL-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="Databases" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🚀 Projects:
+### 🚀 Spotlight Projects
 
-* **[PixelStack](https://github.com/TejasSagar03/PixelStack-Arcade-)**: An engaging arcade hub featuring a collection of games including Tic-Tac-Toe, 2048, UNO, Neon Drifter, and Shinobi Dash.
-* **[CashSpot](https://github.com/TejasSagar03/CashSpot)** : A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management. 
+| 🕹️ **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** | 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** |
+| :--- | :--- |
+| A responsive gaming hub featuring modern and classic titles like Tic-Tac-Toe, 2048, and Neon Drifter. Built with advanced state management for high-performance gameplay. | A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management. |
 
 ---
 
-### 💡 Daily Motivation:
+### 📊 GitHub Activity
 
-> *"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."* — **Steve Jobs**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true" alt="Tejas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true" alt="Tejas's GitHub Streak" width="48%" />
+</div>
 
-> *"Hard work is worthless for those that don't believe in themselves."* — **Naruto Uzumaki**
+---
+
+### 📇 Let's Connect
+
+<div align="center">
+  <a href="mailto:tejassagar9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/tejasrevenger"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.instagram.com/tejasss_here/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</div>
+
+<br>
+<div align="center">
+  <i>"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — <b>Steve Jobs</b></i><br><br>
+  <i>"Hard work is worthless for those that don't believe in themselves." — <b>Naruto Uzumaki</b></i>
+</div>
