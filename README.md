@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Tejas%20Sagar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20BCA%20Student&descAlignY=55&descAlign=50" alt="Tejas Sagar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Tejas%20Sagar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20BCA%20Student&descAlignY=55&descAlign=50" alt="Tejas Sagar Banner" />
 </div>
 
 <br>
