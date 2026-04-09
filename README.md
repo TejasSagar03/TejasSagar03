@@ -72,6 +72,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=3000&color=A9B2C3&center=true&vCenter=true&width=1000&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.+If+you+haven%27t+found+it+yet%2C+keep+looking.+Don%27t+settle.%22+%E2%80%94+Steve+Jobs;%22Hard+work+is+worthless+for+those+that+don%27t+believe+in+themselves.%22+%E2%80%94+Naruto+Uzumaki" alt="Daily Quotes" />
-</div>
+### 💡 Daily Motivation
+
+> *"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."* <br> — **Steve Jobs**
+
+> *"Hard work is worthless for those who don't believe in themselves."* <br> — **Naruto Uzumaki**
