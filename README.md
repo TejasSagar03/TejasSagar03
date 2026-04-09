@@ -6,6 +6,7 @@
 * 🌱 I’m currently sharpening my skills in **Frontend & Backend Architecture**
 * 💬 Ask me about **Java, Python, React, and Node.js**
 * 📫 How to reach me: **[Send me an email](mailto:tejassagar9@gmail.com)**
+* 🔗 Here is my resume for more information: **[View My Resume](./Tejas's Resume.pdf)**
 
 ---
 
@@ -40,6 +41,13 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
+**Mobile Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+
 **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -68,8 +76,8 @@
 
 ### 🚀 Projects:
 
-* **[PixelStack](https://github.com/TejasSagar03/CashSpot):** An engaging arcade hub featuring a collection of games including Tic-Tac-Toe, 2048, UNO, Neon Drifter, and Shinobi Dash.
-* **[CashSpot](https://github.com/TejasSagar03/PixelStack-Arcade-):** *[Add a quick 1-2 sentence description of what CashSpot does and the main tech stack you used to build it]*
+* **[PixelStack](https://github.com/TejasSagar03/PixelStack-Arcade-)**: An engaging arcade hub featuring a collection of games including Tic-Tac-Toe, 2048, UNO, Neon Drifter, and Shinobi Dash.
+* **[CashSpot](https://github.com/TejasSagar03/CashSpot)** : A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management. 
 
 ---
 
