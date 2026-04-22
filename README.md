@@ -17,38 +17,21 @@
 
 <div align="center">
 
-<p><strong>💻 Languages</strong></p>
-<img src="https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=java&logoColor=8B5CF6" alt="Java" />
-<img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="Python" />
-<img src="https://img.shields.io/badge/C-1A1B26?style=for-the-badge&logo=c&logoColor=8B5CF6" alt="C" />
-<img src="https://img.shields.io/badge/C++-1A1B26?style=for-the-badge&logo=c%2B%2B&logoColor=8B5CF6" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=8B5CF6" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-1A1B26?style=for-the-badge&logo=php&logoColor=8B5CF6" alt="PHP" />
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php&theme=dark" alt="Languages" />
+<p><code>Java</code> • <code>Python</code> • <code>C</code> • <code>C++</code> • <code>JavaScript</code> • <code>PHP</code></p>
 
-<br /><br />
+<br />
 
-<p><strong>📱 Frontend & Mobile</strong></p>
-<img src="https://img.shields.io/badge/HTML5-1A1B26?style=for-the-badge&logo=html5&logoColor=8B5CF6" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1A1B26?style=for-the-badge&logo=css3&logoColor=8B5CF6" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=8B5CF6" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-1A1B26?style=for-the-badge&logo=nextdotjs&logoColor=8B5CF6" alt="Next.js" />
-<img src="https://img.shields.io/badge/Angular-1A1B26?style=for-the-badge&logo=angular&logoColor=8B5CF6" alt="Angular" />
-<img src="https://img.shields.io/badge/Flutter-1A1B26?style=for-the-badge&logo=flutter&logoColor=8B5CF6" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-1A1B26?style=for-the-badge&logo=dart&logoColor=8B5CF6" alt="Dart" />
-<img src="https://img.shields.io/badge/Kotlin-1A1B26?style=for-the-badge&logo=kotlin&logoColor=8B5CF6" alt="Kotlin" />
+#### 📱 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,flutter,dart,kotlin&theme=dark" alt="Frontend and Mobile" />
+<p><code>HTML5</code> • <code>CSS3</code> • <code>React</code> • <code>Next.js</code> • <code>Angular</code> • <code>Flutter</code> • <code>Dart</code> • <code>Kotlin</code></p>
 
-<br /><br />
+<br />
 
-<p><strong>⚙️ Backend, Databases & Tools</strong></p>
-<img src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-1A1B26?style=for-the-badge&logo=express&logoColor=8B5CF6" alt="Express.js" />
-<img src="https://img.shields.io/badge/NestJS-1A1B26?style=for-the-badge&logo=nestjs&logoColor=8B5CF6" alt="NestJS" />
-<img src="https://img.shields.io/badge/Prisma-1A1B26?style=for-the-badge&logo=prisma&logoColor=8B5CF6" alt="Prisma" />
-<img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=8B5CF6" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-1A1B26?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=8B5CF6" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
+#### ⚙️ Backend, Databases & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,git,github&theme=dark&perline=9" alt="Backend and Tools" />
+<p><code>Node.js</code> • <code>Express.js</code> • <code>NestJS</code> • <code>Prisma</code> • <code>PostgreSQL</code> • <code>MongoDB</code> • <code>MySQL</code> • <code>Git</code> • <code>GitHub</code></p>
 
 </div>
 
@@ -67,8 +50,8 @@
 ### 📊 Developer Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&v=4" alt="Tejas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=1A1B26&v=4" alt="Tejas's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=5" alt="Tejas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117&v=5" alt="Tejas's GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -76,18 +59,11 @@
 ### 📇 Let's Connect
 
 <div align="center">
-  <a href="mailto:tejassagar9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1A1B26?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/tejasrevenger">
-    <img src="https://img.shields.io/badge/Discord-1A1B26?style=for-the-badge&logo=discord&logoColor=8B5CF6" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/tejasss_here/">
-    <img src="https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" />
-  </a>
+  <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
+  <p><code>Email</code> • <code>LinkedIn</code> • <code>Discord</code> • <code>Instagram</code></p>
 </div>
 
 <br /><br />
