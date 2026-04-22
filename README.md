@@ -15,48 +15,30 @@
 
 ### 🚀 Tech Arsenal
 
-<div align="center">
-  <p><strong>Languages</strong></p>
-  <kbd><img src="https://skillicons.dev/icons?i=java" width="45" /><br>Java</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=python" width="45" /><br>Python</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=c" width="45" /><br>C</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=cpp" width="45" /><br>C++</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=js" width="45" /><br>JavaScript</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=php" width="45" /><br>PHP</kbd>
-  
-  <br><br>
-  
-  <p><strong>Frontend & Mobile</strong></p>
-  <kbd><img src="https://skillicons.dev/icons?i=html" width="45" /><br>HTML5</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=css" width="45" /><br>CSS3</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=react" width="45" /><br>React</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br>Next.js</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=angular" width="45" /><br>Angular</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=flutter" width="45" /><br>Flutter</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=dart" width="45" /><br>Dart</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=kotlin" width="45" /><br>Kotlin</kbd>
-  
-  <br><br>
-  
-  <p><strong>Backend, Databases & Tools</strong></p>
-  <kbd><img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br>Node.js</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=express" width="45" /><br>Express</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=nestjs" width="45" /><br>NestJS</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=prisma" width="45" /><br>Prisma</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=postgres" width="45" /><br>PostgreSQL</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br>MongoDB</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=mysql" width="45" /><br>MySQL</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git</kbd> &nbsp;
-  <kbd><img src="https://skillicons.dev/icons?i=github" width="45" /><br>GitHub</kbd>
-</div>
+#### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php&perline=8" alt="Languages" />
+</a>
+
+#### 📱 Frontend & Mobile
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,flutter,dart,kotlin&perline=8" alt="Frontend and Mobile" />
+</a>
+
+#### ⚙️ Backend, Databases & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,git,github&perline=9" alt="Backend and Tools" />
+</a>
 
 ---
 
 ### 🔥 Spotlight Projects
 
-> 🕹️ **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** <br> A responsive gaming hub featuring modern and classic titles like Tic-Tac-Toe, 2048, and Neon Drifter. Built with advanced state management for high-performance gameplay.
+> 🕹️ **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** <br> 
+> A responsive gaming hub featuring modern and classic titles like Tic-Tac-Toe, 2048, and Neon Drifter. Built with advanced state management for high-performance gameplay.
 
-> 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** | **[Live Demo](https://cash-spot.vercel.app/)** <br> A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management.
+> 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** | **[Live Demo](https://cash-spot.vercel.app/)** <br> 
+> A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management.
 
 ---
 
@@ -72,18 +54,10 @@
 ### 📇 Let's Connect
 
 <div align="center">
-  <a href="mailto:tejassagar9@gmail.com">
-    <kbd><img src="https://skillicons.dev/icons?i=gmail" width="45" /><br>Gmail</kbd>
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
-    <kbd><img src="https://skillicons.dev/icons?i=linkedin" width="45" /><br>LinkedIn</kbd>
-  </a> &nbsp;&nbsp;
-  <a href="https://discord.com/users/tejasrevenger">
-    <kbd><img src="https://skillicons.dev/icons?i=discord" width="45" /><br>Discord</kbd>
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tejasss_here/">
-    <kbd><img src="https://skillicons.dev/icons?i=instagram" width="45" /><br>Instagram</kbd>
-  </a>
+  <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" /></a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="55" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="55" /></a>
 </div>
 
 <br>
