@@ -15,20 +15,13 @@
 
 ### 🚀 Tech Arsenal
 
-#### 💻 Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php&perline=8" alt="Languages" />
-</a>
+| 💻 Core Languages | 📱 Frontend & Mobile |
+| :--- | :--- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php&perline=3" alt="Languages" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,flutter,dart,kotlin&perline=4" alt="Frontend and Mobile" /></a> |
 
-#### 📱 Frontend & Mobile
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,flutter,dart,kotlin&perline=8" alt="Frontend and Mobile" />
-</a>
-
-#### ⚙️ Backend, Databases & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,git,github&perline=9" alt="Backend and Tools" />
-</a>
+| ⚙️ Backend, Databases & Version Control |
+| :--- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,git,github&perline=9" alt="Backend and Tools" /></a> |
 
 ---
 
@@ -44,21 +37,17 @@
 
 ### 📊 Developer Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Tejas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Tejas's GitHub Streak" width="48%" />
-</div>
+| 📈 GitHub Stats | 🔥 Current Streak |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Tejas's GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Tejas's GitHub Streak" /> |
 
 ---
 
 ### 📇 Let's Connect
 
-<div align="center">
-  <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" /></a> &nbsp;&nbsp;
-  <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="55" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="55" /></a>
-</div>
+| Reach Out | Connect | Chat | Follow |
+| :---: | :---: | :---: | :---: |
+| <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" /></a> | <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" /></a> | <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" /></a> | <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" /></a> |
 
 <br>
 
