@@ -17,30 +17,56 @@
 
 <div align="center">
   <p><strong>Languages</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php&perline=8" alt="Languages" />
-  </a>
-  <br><br>
+  <table>
+    <tr>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45" /><br>Java</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45" /><br>Python</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="45" /><br>C</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="45" /><br>C++</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="45" /><br>JavaScript</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" width="45" /><br>PHP</td>
+    </tr>
+  </table>
   
+  <br>
   <p><strong>Frontend & Mobile</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,flutter,dart,kotlin&perline=8" alt="Frontend and Mobile" />
-  </a>
-  <br><br>
+  <table>
+    <tr>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45" /><br>HTML5</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45" /><br>CSS3</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45" /><br>React</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br>Next.js</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" width="45" /><br>Angular</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter" width="45" /><br>Flutter</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dart" width="45" /><br>Dart</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" width="45" /><br>Kotlin</td>
+    </tr>
+  </table>
   
+  <br>
   <p><strong>Backend, Databases & Tools</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,git,github&perline=9" alt="Backend and Tools" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br>Node.js</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="45" /><br>Express</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="45" /><br>NestJS</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="45" /><br>Prisma</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45" /><br>PostgreSQL</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br>MongoDB</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45" /><br>MySQL</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git</td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="45" /><br>GitHub</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 🔥 Spotlight Projects
 
-> 🕹️ **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** > A responsive gaming hub featuring modern and classic titles like Tic-Tac-Toe, 2048, and Neon Drifter. Built with advanced state management for high-performance gameplay.
+> 🕹️ **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** <br> A responsive gaming hub featuring modern and classic titles like Tic-Tac-Toe, 2048, and Neon Drifter. Built with advanced state management for high-performance gameplay.
 
-> 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** > A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management.
+> 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** | **[Live Demo](https://cash-spot.vercel.app/)** <br> A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management.
 
 ---
 
@@ -56,18 +82,22 @@
 ### 📇 Let's Connect
 
 <div align="center">
-  <a href="mailto:tejassagar9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="https://discord.com/users/tejasrevenger">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a> &nbsp;
-  <a href="https://www.instagram.com/tejasss_here/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a><br>Gmail
+      </td>
+      <td align="center" width="110">
+        <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a><br>LinkedIn
+      </td>
+      <td align="center" width="110">
+        <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord" width="45" /></a><br>Discord
+      </td>
+      <td align="center" width="110">
+        <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a><br>Instagram
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
