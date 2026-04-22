@@ -17,47 +17,37 @@
 
 <div align="center">
   <p><strong>Languages</strong></p>
-  <table>
-    <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" title="Java" width="45" /><br>Java</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" title="Python" width="45" /><br>Python</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" title="C" width="45" /><br>C</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" title="C++" width="45" /><br>C++</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" /><br>JavaScript</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" title="PHP" width="45" /><br>PHP</td>
-    </tr>
-  </table>
+  <kbd><img src="https://skillicons.dev/icons?i=java" width="45" /><br>Java</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=python" width="45" /><br>Python</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=c" width="45" /><br>C</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=cpp" width="45" /><br>C++</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=js" width="45" /><br>JavaScript</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=php" width="45" /><br>PHP</kbd>
   
-  <br>
+  <br><br>
+  
   <p><strong>Frontend & Mobile</strong></p>
-  <table>
-    <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" title="HTML5" width="45" /><br>HTML5</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" title="CSS3" width="45" /><br>CSS3</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" title="React" width="45" /><br>React</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="45" /><br>Next.js</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" title="Angular" width="45" /><br>Angular</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter" title="Flutter" width="45" /><br>Flutter</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dart" title="Dart" width="45" /><br>Dart</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" width="45" /><br>Kotlin</td>
-    </tr>
-  </table>
+  <kbd><img src="https://skillicons.dev/icons?i=html" width="45" /><br>HTML5</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=css" width="45" /><br>CSS3</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=react" width="45" /><br>React</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br>Next.js</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=angular" width="45" /><br>Angular</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=flutter" width="45" /><br>Flutter</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=dart" width="45" /><br>Dart</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=kotlin" width="45" /><br>Kotlin</kbd>
   
-  <br>
+  <br><br>
+  
   <p><strong>Backend, Databases & Tools</strong></p>
-  <table>
-    <tr>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="45" /><br>Node.js</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" title="Express.js" width="45" /><br>Express</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" width="45" /><br>NestJS</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" title="Prisma" width="45" /><br>Prisma</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="45" /><br>PostgreSQL</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="45" /><br>MongoDB</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="45" /><br>MySQL</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" title="Git" width="45" /><br>Git</td>
-      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" /><br>GitHub</td>
-    </tr>
-  </table>
+  <kbd><img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br>Node.js</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=express" width="45" /><br>Express</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=nestjs" width="45" /><br>NestJS</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=prisma" width="45" /><br>Prisma</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=postgres" width="45" /><br>PostgreSQL</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br>MongoDB</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=mysql" width="45" /><br>MySQL</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=git" width="45" /><br>Git</kbd> &nbsp;
+  <kbd><img src="https://skillicons.dev/icons?i=github" width="45" /><br>GitHub</kbd>
 </div>
 
 ---
@@ -70,21 +60,11 @@
 
 ---
 
-### 🐍 Activity Graph
+### 📊 Developer Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejasSagar03/TejasSagar03/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TejasSagar03/TejasSagar03/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TejasSagar03/TejasSagar03/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tejas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117" alt="Tejas's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Tejas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Tejas's GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -92,26 +72,22 @@
 ### 📇 Let's Connect
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a><br>Gmail
-      </td>
-      <td align="center" width="110">
-        <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a><br>LinkedIn
-      </td>
-      <td align="center" width="110">
-        <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord" width="45" /></a><br>Discord
-      </td>
-      <td align="center" width="110">
-        <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a><br>Instagram
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:tejassagar9@gmail.com">
+    <kbd><img src="https://skillicons.dev/icons?i=gmail" width="45" /><br>Gmail</kbd>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
+    <kbd><img src="https://skillicons.dev/icons?i=linkedin" width="45" /><br>LinkedIn</kbd>
+  </a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/tejasrevenger">
+    <kbd><img src="https://skillicons.dev/icons?i=discord" width="45" /><br>Discord</kbd>
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tejasss_here/">
+    <kbd><img src="https://skillicons.dev/icons?i=instagram" width="45" /><br>Instagram</kbd>
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=8B5CF6&center=true&vCenter=true&width=850&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22If+you+haven%27t+found+it+yet%2C+keep+looking.+Don%27t+settle.%22+%E2%80%94+Steve+Jobs;%22Hard+work+is+worthless+for+those+who+don%27t+believe+in+themselves.%22+%E2%80%94+Naruto+Uzumaki" alt="Daily Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=A9B2C3&center=true&vCenter=true&width=850&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22If+you+haven%27t+found+it+yet%2C+keep+looking.+Don%27t+settle.%22+%E2%80%94+Steve+Jobs;%22Hard+work+is+worthless+for+those+who+don%27t+believe+in+themselves.%22+%E2%80%94+Naruto+Uzumaki" alt="Daily Quotes" />
 </div>
