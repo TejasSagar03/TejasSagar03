@@ -18,37 +18,39 @@
 <div align="center">
   
   <p><strong>💻 Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=java" width="36" align="center" /> <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="36" align="center" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="36" align="center" /> <b>C</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="36" align="center" /> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="36" align="center" /> <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="36" align="center" /> <b>PHP</b>
+  <img src="https://skillicons.dev/icons?i=java" width="36" align="absmiddle" /> <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="36" align="absmiddle" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="36" align="absmiddle" /> <b>C</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="36" align="absmiddle" /> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="36" align="absmiddle" /> <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="36" align="absmiddle" /> <b>PHP</b>
   
   <br><br>
   
   <p><strong>📱 Frontend & Mobile</strong></p>
-  <img src="https://skillicons.dev/icons?i=html" width="36" align="center" /> <b>HTML5</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="36" align="center" /> <b>CSS3</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="36" align="center" /> <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="36" align="center" /> <b>Next.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" width="36" align="center" /> <b>Angular</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="36" align="center" /> <b>Flutter</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" width="36" align="center" /> <b>Dart</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" width="36" align="center" /> <b>Kotlin</b>
+  <img src="https://skillicons.dev/icons?i=html" width="36" align="absmiddle" /> <b>HTML5</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="36" align="absmiddle" /> <b>CSS3</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="36" align="absmiddle" /> <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="36" align="absmiddle" /> <b>Next.js</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=angular" width="36" align="absmiddle" /> <b>Angular</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" width="36" align="absmiddle" /> <b>Flutter</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" width="36" align="absmiddle" /> <b>Dart</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" width="36" align="absmiddle" /> <b>Kotlin</b>
   
   <br><br>
   
   <p><strong>⚙️ Backend, Databases & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="36" align="center" /> <b>Node.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="36" align="center" /> <b>Express.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" width="36" align="center" /> <b>NestJS</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=prisma" width="36" align="center" /> <b>Prisma</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="36" align="center" /> <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="36" align="center" /> <b>MongoDB</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="36" align="center" /> <b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="36" align="center" /> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="36" align="center" /> <b>GitHub</b>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="36" align="absmiddle" /> <b>Node.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="36" align="absmiddle" /> <b>Express.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" width="36" align="absmiddle" /> <b>NestJS</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="36" align="absmiddle" /> <b>Prisma</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="36" align="absmiddle" /> <b>PostgreSQL</b> 
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="36" align="absmiddle" /> <b>MongoDB</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="36" align="absmiddle" /> <b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="36" align="absmiddle" /> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="36" align="absmiddle" /> <b>GitHub</b>
   
 </div>
 
@@ -76,18 +78,21 @@
 ### 📇 Let's Connect
 
 <div align="center">
-  <a href="mailto:tejassagar9@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" align="center" /> <b>Gmail</b>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" align="center" /> <b>LinkedIn</b>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/tejasrevenger" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" align="center" /> <b>Discord</b>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/tejasss_here/" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" align="center" /> <b>Instagram</b>
-  </a>
+  <a href="mailto:tejassagar9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" align="absmiddle" />
+  </a> <b>Gmail</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" align="absmiddle" />
+  </a> <b>LinkedIn</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://discord.com/users/tejasrevenger">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" align="absmiddle" />
+  </a> <b>Discord</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/tejasss_here/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" align="absmiddle" />
+  </a> <b>Instagram</b>
 </div>
 
 <br><br>
