@@ -18,37 +18,37 @@
 <div align="center">
 
 <p><strong>💻 Languages</strong></p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=java&logoColor=8B5CF6" alt="Java" />
+<img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="Python" />
+<img src="https://img.shields.io/badge/C-1A1B26?style=for-the-badge&logo=c&logoColor=8B5CF6" alt="C" />
+<img src="https://img.shields.io/badge/C++-1A1B26?style=for-the-badge&logo=c%2B%2B&logoColor=8B5CF6" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=8B5CF6" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-1A1B26?style=for-the-badge&logo=php&logoColor=8B5CF6" alt="PHP" />
 
 <br /><br />
 
 <p><strong>📱 Frontend & Mobile</strong></p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/HTML5-1A1B26?style=for-the-badge&logo=html5&logoColor=8B5CF6" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1A1B26?style=for-the-badge&logo=css3&logoColor=8B5CF6" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=8B5CF6" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1A1B26?style=for-the-badge&logo=nextdotjs&logoColor=8B5CF6" alt="Next.js" />
+<img src="https://img.shields.io/badge/Angular-1A1B26?style=for-the-badge&logo=angular&logoColor=8B5CF6" alt="Angular" />
+<img src="https://img.shields.io/badge/Flutter-1A1B26?style=for-the-badge&logo=flutter&logoColor=8B5CF6" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-1A1B26?style=for-the-badge&logo=dart&logoColor=8B5CF6" alt="Dart" />
+<img src="https://img.shields.io/badge/Kotlin-1A1B26?style=for-the-badge&logo=kotlin&logoColor=8B5CF6" alt="Kotlin" />
 
 <br /><br />
 
 <p><strong>⚙️ Backend, Databases & Tools</strong></p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-1A1B26?style=for-the-badge&logo=express&logoColor=8B5CF6" alt="Express.js" />
+<img src="https://img.shields.io/badge/NestJS-1A1B26?style=for-the-badge&logo=nestjs&logoColor=8B5CF6" alt="NestJS" />
+<img src="https://img.shields.io/badge/Prisma-1A1B26?style=for-the-badge&logo=prisma&logoColor=8B5CF6" alt="Prisma" />
+<img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=8B5CF6" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-1A1B26?style=for-the-badge&logo=mysql&logoColor=8B5CF6" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=8B5CF6" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
 
 </div>
 
@@ -67,8 +67,8 @@
 ### 📊 Developer Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" alt="Tejas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117&v=3" alt="Tejas's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&v=4" alt="Tejas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=1A1B26&v=4" alt="Tejas's GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -77,16 +77,16 @@
 
 <div align="center">
   <a href="mailto:tejassagar9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-1A1B26?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/tejasrevenger">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-1A1B26?style=for-the-badge&logo=discord&logoColor=8B5CF6" alt="Discord" />
   </a>
   <a href="https://www.instagram.com/tejasss_here/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" />
   </a>
 </div>
 
