@@ -1,56 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=TEJAS%20SAGAR&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=%E2%97%8F%20FULL-STACK%20DEVELOPER%20%20%20%E2%97%8F%20BCA%20STUDENT&descAlignY=65&descColor=FF0000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Tejas%20Sagar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20BCA%20Student&descAlignY=55&descAlign=50" alt="Tejas Sagar Banner" />
 </div>
 
-<br />
+<br>
 
 ### 👨‍💻 Quick Summary
 
-* 🔭 **Currently Building:** Scalable, high-performance platforms like **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** and **[CashSpot](https://github.com/TejasSagar03/CashSpot)**.
+* 🔭 **Currently Building:** Scalable, high-performance platforms like **PixelStack** and **CashSpot**.
 * 🌱 **Currently Learning:** Advanced Frontend State Management and Mobile Architecture.
 * 🎓 **Background:** Pursuing a Bachelor of Computer Applications (BCA) in Bangalore, India 🇮🇳.
-* 📄 **Credentials:** Review formal execution details via **[My Resume](./Tejas's%20Resume.pdf)**.
+* 📄 **Experience:** Check out the formal details in **[My Resume](./Tejas's%20Resume.pdf)**.
 
 ---
 
 ### 🚀 Tech Arsenal
 
-<div align="center">
+**💻 Core Languages**
+> <img src="https://skillicons.dev/icons?i=java&theme=dark" width="22" /> `Java` &emsp; <img src="https://skillicons.dev/icons?i=python&theme=dark" width="22" /> `Python` &emsp; <img src="https://skillicons.dev/icons?i=c&theme=dark" width="22" /> `C` &emsp; <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="22" /> `C++` &emsp; <img src="https://skillicons.dev/icons?i=js&theme=dark" width="22" /> `JavaScript` &emsp; <img src="https://skillicons.dev/icons?i=php&theme=dark" width="22" /> `PHP`
 
-<p><strong>💻 Core Languages</strong></p>
-<img src="https://img.shields.io/badge/Java-16161a?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java" /> &nbsp;
-<img src="https://img.shields.io/badge/Python-16161a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> &nbsp;
-<img src="https://img.shields.io/badge/C-16161a?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" /> &nbsp;
-<img src="https://img.shields.io/badge/C++-16161a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" /> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-16161a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> &nbsp;
-<img src="https://img.shields.io/badge/PHP-16161a?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+**📱 Frontend & Mobile**
+> <img src="https://skillicons.dev/icons?i=react&theme=dark" width="22" /> `React` &emsp; <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="22" /> `Next.js` &emsp; <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="22" /> `Angular` &emsp; <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="22" /> `Flutter` &emsp; <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="22" /> `Dart` &emsp; <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="22" /> `Kotlin` &emsp; <img src="https://skillicons.dev/icons?i=html&theme=dark" width="22" /> `HTML5` &emsp; <img src="https://skillicons.dev/icons?i=css&theme=dark" width="22" /> `CSS3`
 
-<br /><br />
-
-<p><strong>📱 Frontend & Mobile</strong></p>
-<img src="https://img.shields.io/badge/React-16161a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> &nbsp;
-<img src="https://img.shields.io/badge/Next.js-16161a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" /> &nbsp;
-<img src="https://img.shields.io/badge/Angular-16161a?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" /> &nbsp;
-<img src="https://img.shields.io/badge/Flutter-16161a?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" /> &nbsp;
-<img src="https://img.shields.io/badge/Dart-16161a?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" /> &nbsp;
-<img src="https://img.shields.io/badge/Kotlin-16161a?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" /> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-16161a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-16161a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-
-<br /><br />
-
-<p><strong>⚙️ Backend, Databases & Tools</strong></p>
-<img src="https://img.shields.io/badge/Node.js-16161a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" /> &nbsp;
-<img src="https://img.shields.io/badge/Express-16161a?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" /> &nbsp;
-<img src="https://img.shields.io/badge/NestJS-16161a?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" /> &nbsp;
-<img src="https://img.shields.io/badge/Prisma-16161a?style=for-the-badge&logo=prisma&logoColor=2D3748" alt="Prisma" /> &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-16161a?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL" /> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-16161a?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-16161a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" /> &nbsp;
-<img src="https://img.shields.io/badge/Git-16161a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> &nbsp;
-<img src="https://img.shields.io/badge/GitHub-16161a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-
-</div>
+**⚙️ Backend, Databases & Tools**
+> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="22" /> `Node.js` &emsp; <img src="https://skillicons.dev/icons?i=express&theme=dark" width="22" /> `Express` &emsp; <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="22" /> `NestJS` &emsp; <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="22" /> `Prisma` &emsp; <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="22" /> `PostgreSQL` &emsp; <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="22" /> `MongoDB` &emsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="22" /> `MySQL` &emsp; <img src="https://skillicons.dev/icons?i=git&theme=dark" width="22" /> `Git` &emsp; <img src="https://skillicons.dev/icons?i=github&theme=dark" width="22" /> `GitHub`
 
 ---
 
@@ -67,8 +39,8 @@
 ### 📊 Developer Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=dark&hide_border=false&border_color=333333&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=FF0000&border_radius=12" alt="Tejas's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=dark&background=000000&hide_border=false&border=333333&stroke=ffffff&ring=FF0000&fire=FF0000&border_radius=12&currStreakNum=ffffff&sideNums=ffffff" alt="Tejas's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=6" alt="Tejas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117&v=6" alt="Tejas's GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -76,22 +48,14 @@
 ### 📇 Let's Connect
 
 <div align="center">
-  <a href="mailto:tejassagar9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-16161a?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
-    <img src="https://img.shields.io/badge/LinkedIn-16161a?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;
-  <a href="https://discord.com/users/tejasrevenger">
-    <img src="https://img.shields.io/badge/Discord-16161a?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tejasss_here/">
-    <img src="https://img.shields.io/badge/Instagram-16161a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
+  <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="45" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="45" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="45" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="45" /></a>
 </div>
 
-<br /><br />
+<br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=15&pause=3000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=850&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22If+you+haven%27t+found+it+yet%2C+keep+looking.+Don%27t+settle.%22+%E2%80%94+Steve+Jobs;%22Hard+work+is+worthless+for+those+who+don%27t+believe+in+themselves.%22+%E2%80%94+Naruto+Uzumaki" alt="Daily Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=A9B2C3&center=true&vCenter=true&width=850&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22If+you+haven%27t+found+it+yet%2C+keep+looking.+Don%27t+settle.%22+%E2%80%94+Steve+Jobs;%22Hard+work+is+worthless+for+those+who+don%27t+believe+in+themselves.%22+%E2%80%94+Naruto+Uzumaki" alt="Daily Quotes" />
 </div>
