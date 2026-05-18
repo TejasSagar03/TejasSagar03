@@ -15,30 +15,42 @@
 
 ### 🚀 Tech Arsenal
 
-#### 💻 Core Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php&theme=dark" alt="Languages" />
-</a>
-<br />
-▲ _Java • Python • C • C++ • JavaScript • PHP_
+<div align="center">
 
-<br />
+<p><strong>💻 Languages</strong></p>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java" /> &nbsp;
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> &nbsp;
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" /> &nbsp;
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" /> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> &nbsp;
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
 
-#### 📱 Frontend & Mobile
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,flutter,dart,kotlin&theme=dark" alt="Frontend and Mobile" />
-</a>
-<br />
-▲ _HTML5 • CSS3 • React • Next.js • Angular • Flutter • Dart • Kotlin_
+<br /><br />
 
-<br />
+<p><strong>📱 Frontend & Mobile</strong></p>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /> &nbsp;
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" /> &nbsp;
+<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" /> &nbsp;
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" /> &nbsp;
+<img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" /> &nbsp;
+<img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
 
-#### ⚙️ Backend & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,git,github&theme=dark&perline=9" alt="Backend and Tools" />
-</a>
-<br />
-▲ _Node.js • Express.js • NestJS • Prisma • PostgreSQL • MongoDB • MySQL • Git • GitHub_
+<br /><br />
+
+<p><strong>⚙️ Backend & Databases</strong></p>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" /> &nbsp;
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" /> &nbsp;
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" /> &nbsp;
+<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2D3748" alt="Prisma" /> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL" /> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /> &nbsp;
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" /> &nbsp;
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+
+</div>
 
 ---
 
@@ -55,8 +67,8 @@
 ### 📊 Developer Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tejas's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117" alt="Tejas's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tejas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117" alt="Tejas's GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -64,10 +76,18 @@
 ### 📇 Let's Connect
 
 <div align="center">
-  <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="50" /></a>
+  <a href="mailto:tejassagar9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/tejasrevenger">
+    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tejasss_here/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
 </div>
 
 <br /><br />
