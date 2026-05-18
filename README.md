@@ -1,49 +1,32 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=65&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=TEJAS+SAGAR" alt="TEJAS SAGAR" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=22&duration=1&pause=10000&color=FF0033&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+WEB+DEVELOPER" alt="FULL-STACK WEB DEVELOPER" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Tejas%20Sagar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20BCA%20Student&descAlignY=55&descAlign=50" alt="Tejas Sagar Banner" />
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=26&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=SYSTEM+SUMMARY" alt="SYSTEM SUMMARY" />
-</div>
+### 👨‍💻 Quick Summary
 
-> 🔴 **CURRENTLY_BUILDING:** Scalable platforms like **[PixelStack](https://github.com/TejasSagar03/PixelStack-Arcade-)** and **[CashSpot](https://github.com/TejasSagar03/CashSpot)**.
-> ⚪ **CURRENTLY_LEARNING:** Advanced Frontend State Management & Mobile Architecture.
-> 🔴 **BACKGROUND:** Pursuing a Bachelor of Computer Applications (BCA) in Bangalore, India.
-> ⚪ **CREDENTIALS:** View formal execution details via **[My Resume](./Tejas's%20Resume.pdf)**.
+* 🔭 **Currently Building:** Scalable, high-performance platforms like **PixelStack** and **CashSpot**.
+* 🌱 **Currently Learning:** Advanced Frontend State Management and Mobile Architecture.
+* 🎓 **Background:** Pursuing a Bachelor of Computer Applications (BCA) in Bangalore, India 🇮🇳.
+* 📄 **Experience:** Check out the formal details in **[My Resume](./Tejas's%20Resume.pdf)**.
 
-<br><br>
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=26&duration=1&pause=10000&color=FF0033&center=true&vCenter=true&width=500&height=50&lines=TECH+ARSENAL" alt="TECH ARSENAL" />
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=16&duration=1&pause=10000&color=A3A3A3&center=true&vCenter=true&width=300&height=30&lines=CORE+LANGUAGES" alt="CORE LANGUAGES" />
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php&theme=dark" alt="Languages" /></a>
+### 🚀 Tech Arsenal
 
-  <br><br>
+**💻 Core Languages**
+> <img src="https://skillicons.dev/icons?i=java&theme=dark" width="22" /> `Java` &emsp; <img src="https://skillicons.dev/icons?i=python&theme=dark" width="22" /> `Python` &emsp; <img src="https://skillicons.dev/icons?i=c&theme=dark" width="22" /> `C` &emsp; <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="22" /> `C++` &emsp; <img src="https://skillicons.dev/icons?i=js&theme=dark" width="22" /> `JavaScript` &emsp; <img src="https://skillicons.dev/icons?i=php&theme=dark" width="22" /> `PHP`
 
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=16&duration=1&pause=10000&color=A3A3A3&center=true&vCenter=true&width=300&height=30&lines=FRONTEND+%26+MOBILE" alt="FRONTEND & MOBILE" />
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,flutter,dart,kotlin&theme=dark" alt="Frontend and Mobile" /></a>
+**📱 Frontend & Mobile**
+> <img src="https://skillicons.dev/icons?i=react&theme=dark" width="22" /> `React` &emsp; <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="22" /> `Next.js` &emsp; <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="22" /> `Angular` &emsp; <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="22" /> `Flutter` &emsp; <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="22" /> `Dart` &emsp; <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="22" /> `Kotlin` &emsp; <img src="https://skillicons.dev/icons?i=html&theme=dark" width="22" /> `HTML5` &emsp; <img src="https://skillicons.dev/icons?i=css&theme=dark" width="22" /> `CSS3`
 
-  <br><br>
+**⚙️ Backend, Databases & Tools**
+> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="22" /> `Node.js` &emsp; <img src="https://skillicons.dev/icons?i=express&theme=dark" width="22" /> `Express` &emsp; <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="22" /> `NestJS` &emsp; <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="22" /> `Prisma` &emsp; <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="22" /> `PostgreSQL` &emsp; <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="22" /> `MongoDB` &emsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="22" /> `MySQL` &emsp; <img src="https://skillicons.dev/icons?i=git&theme=dark" width="22" /> `Git` &emsp; <img src="https://skillicons.dev/icons?i=github&theme=dark" width="22" /> `GitHub`
 
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=16&duration=1&pause=10000&color=A3A3A3&center=true&vCenter=true&width=300&height=30&lines=BACKEND+%26+DATABASES" alt="BACKEND & DATABASES" />
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,git,github&theme=dark" alt="Backend and Tools" /></a>
-</div>
+---
 
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=26&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=SPOTLIGHT+PROJECTS" alt="SPOTLIGHT PROJECTS" />
-</div>
+### 🔥 Spotlight Projects
 
 > 🕹️ **[PixelStack Arcade](https://github.com/TejasSagar03/PixelStack-Arcade-)** <br> 
 > A responsive gaming hub featuring modern and classic titles like Tic-Tac-Toe, 2048, and Neon Drifter. Built with advanced state management for high-performance gameplay.
@@ -51,28 +34,28 @@
 > 💸 **[CashSpot](https://github.com/TejasSagar03/CashSpot)** | **[Live Demo](https://cash-spot.vercel.app/)** <br> 
 > A sleek, full-stack personal finance application designed for seamless expense tracking, budgeting, and financial management.
 
-<br><br>
+---
+
+### 📊 Developer Analytics
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=26&duration=1&pause=10000&color=FF0033&center=true&vCenter=true&width=500&height=50&lines=DEVELOPER+ANALYTICS" alt="DEVELOPER ANALYTICS" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=FF0033&border_color=222222&border_radius=15" alt="Tejas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=dark&background=000000&border=222222&stroke=ffffff&ring=FF0033&fire=FF0033&border_radius=15&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=a3a3a3" alt="Tejas's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasSagar03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=6" alt="Tejas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSagar03&theme=tokyonight&hide_border=true&background=0D1117&v=6" alt="Tejas's GitHub Streak" width="48%" />
+</div>
+
+---
+
+### 📇 Let's Connect
+
+<div align="center">
+  <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="45" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="45" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="45" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="45" /></a>
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=26&duration=1&pause=10000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=NETWORK+CHANNELS" alt="NETWORK CHANNELS" />
-  <br>
-  <a href="mailto:tejassagar9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="55" alt="Gmail" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tejas-sagar-659032287/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/tejasrevenger"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="55" alt="Discord" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/tejasss_here/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="55" alt="Instagram" /></a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=14&pause=3000&color=A3A3A3&center=true&vCenter=true&width=850&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22If+you+haven%27t+found+it+yet%2C+keep+looking.+Don%27t+settle.%22+%E2%80%94+Steve+Jobs;%22Hard+work+is+worthless+for+those+who+don%27t+believe+in+themselves.%22+%E2%80%94+Naruto+Uzumaki" alt="System Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=A9B2C3&center=true&vCenter=true&width=850&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22If+you+haven%27t+found+it+yet%2C+keep+looking.+Don%27t+settle.%22+%E2%80%94+Steve+Jobs;%22Hard+work+is+worthless+for+those+who+don%27t+believe+in+themselves.%22+%E2%80%94+Naruto+Uzumaki" alt="Daily Quotes" />
 </div>
